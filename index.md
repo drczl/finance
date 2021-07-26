@@ -1,8 +1,6 @@
 <html lang="en">
   <body>
     <div class="container" id="container">
-    
-      <!-- Header -->
       <div class="row">
         <div class="col-sm-3">
           <dd>Asisstant Professor of Finance</dd>
@@ -27,16 +25,17 @@
       
       
        <div class="row-fluid content-header text-left">
-        <h3><strong>Working Papers</strong></h3>
-      </div>
-      <div class="row">
+         <h3><strong>Working Papers</strong></h3>
+       </div>
+       <div class="row">
         <ul>
           <li class="workingpaper">
             <div class="paper-title">
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns </a>, with Zhi Da, Dashan Huang, and Liyao Wang.
-                <div class="paper-conference">
-                Presented at: CICF 2021
-                </div>
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns </a>, with Zhi Da, Dashan Huang, and Liyao Wang.
+            </div>
+            <div class="paper-conference">
+              Presented at: CICF 2021
+            </div>
           </li>
             
         </ul>
