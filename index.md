@@ -51,6 +51,22 @@
           
         </ul>
        </div>
+    
+    <div class="row-fluid content-header text-left">
+         <h3><strong>Publications</strong></h3>
+       </div>
+       <div class="row">
+        <ul>
+          
+          <li class="workingpaper">
+            <div class="paper-title">
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement </a>, Journal of Economic Dynamics and Control, accepted
+            </div>
+          </li>
+          
+
+        </ul>
+       </div>
 
   </body>
 </html>
