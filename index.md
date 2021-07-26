@@ -24,31 +24,55 @@
           <li>Empirical Asset Pricing; Behavioral Finance; Machine Learning</li>
         </ul>
       </div>
-      <div class="row-fluid content-header text-left">
-        <h2><strong>Selected Publications</strong></h2>
+      
+      
+       <div class="row-fluid content-header text-left">
+        <h3><strong>Working Papers</strong></h3>
       </div>
       <div class="row">
         <ul>
-          <li class="publication">
-            <div class="publication-title">
-              Symbolic Music Generation with Transformer-GANs.
+          <li class="workingpaper">
+            <div class="paper-title">
+              <strong>Analyst report content and stock market anomalies</strong>
             </div>
-            <div class="publication-author">
-              Aashiq Muhamed*, Liang Li*, <strong>Xingjian Shi</strong>, Suri Yaddanapudi, Wayne Chi, Dylan Jackson, Rahul Suresh, Zachary C. Lipton, Alexander J. Smola (* indicates equal contribution)
+            <div class="paper-author">
+                Haoyuan Li
             </div>
-            <div class="publication-conf">
-              Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
+          </li>
+
+          
+          <li class="workingpaper">
+            <div class="paper-title">
+                <strong>Information cycle and return seasonality</strong>
+            </div>
+            <div class="paper-author">
+                Haoyuan Li and <a href="https://business.smu.edu.sg/faculty/profile/9514/Roger-LOH">Roger Loh</a>
+            </div>
+          
+            <div class="paper-conference">
+                <strong>Presented at: </strong> <a href="https://business.smu.edu.sg/business/disciplines/finance/summer-camp">SMU Finance Summer Camp, 2019; </a> 
+                <a href="http://sfs.org/financecavalcades/sfs-cavalcade-asia-pacific-2019">SFS Cavalcade Asia-Pacific 2019. </a>
+              <!-- [project page] -->
             </div>
             <div class="publication-link">
-              [<a href="https://assets.amazon.science/36/e6/95f355a24df983dfcd2fe6b5ad2a/symbolic-music-generation-with-transformer-gans.pdf">paper</a>]
-              [<a href="TBA">project page</a>]
+              [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3746737">paper</a>]
+              <!-- [paper]  -->
+              <!-- [project page] -->
             </div>
+          </li>
+            <li class="workingpaper">
+              <div class="paper-title">
+                  <strong>Managerial and analyst horizons during conference calls</strong>
+              </div>
+              <div class="paper-author">
+                  Haoyuan Li 
+              </div>          
+          </li>
+        </ul>
+      </div>
          
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+  
             
   </body>
 </html>
