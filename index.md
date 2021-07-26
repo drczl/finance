@@ -27,7 +27,7 @@
       <div class="row">
         <div class="col-sm-4">
           <dd>Aisstant Professor of Finance</dd>
-           <dd>School of Finance,</dd>
+           <dd>School of Finance</dd>
           <dd>Southwestern University of Finance and Economics</dd>
             <dd>555 Liutai Avenue, Chengdu, China, 611130</dd>
             <dt><i class="fa fa-envelope-o" aria-hidden="true"></i></dt>
