@@ -27,13 +27,10 @@
       <div class="row">
         <div class="col-sm-5">
           <h5>Aisstant Professor of Finance</h5>
-          <h5>School of Finance</h5>
           <h5>Southwestern University of Finance and Economics</h5>
         </div>
          <div class="col-sm-7 personal-information">
           <dl class="dl-horizontal">
-            <br />
-            <br />
             <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
