@@ -5,9 +5,10 @@
       <!-- Header -->
       <div class="row">
         <div class="col-sm-5">
-          <h1>Xingjian Shi </h1> 
-          <h2> 施行健</h2>
-          <h2>Senior Applied Scientist, Amazon Web Services</h2>
+    
+          <h2>Aisstant Professor of Finance</h2>
+          <h2>School of Finance</h2>
+          <h2>Southwestern University of Finance and Economics</h2>
           <!--<h4><a href="http://www.cse.ust.hk">Department of Computer Science and Engineering</a></h4>-->
           <!--<h4><a href="http://www.ust.hk">Hong Kong University of Science and Technology</a></h4>-->
         </div>
