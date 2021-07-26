@@ -4,7 +4,7 @@
     
       <!-- Header -->
       <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
     
           <h2>Aisstant Professor of Finance</h2>
           <h2>School of Finance</h2>
