@@ -37,10 +37,8 @@
               Presented at: CICF 2021
             </div>
           </li>
-            
         </ul>
-        
-      </div>
+       </div>
 
   </body>
 </html>
