@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-sm-6">
     
-          <h2>Aisstant Professor of Finance</h2>
+          <h1>Aisstant Professor of Finance</h1>
           <h2>School of Finance</h2>
           <h2>Southwestern University of Finance and Economics</h2>
           <!--<h4><a href="http://www.cse.ust.hk">Department of Computer Science and Engineering</a></h4>-->
