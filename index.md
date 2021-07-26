@@ -26,10 +26,9 @@
       <!-- Header -->
       <div class="row">
         <div class="col-sm-6">
-    
           <h1>Aisstant Professor of Finance</h1>
-          <h2>School of Finance</h2>
-          <h2>Southwestern University of Finance and Economics</h2>
+          <h1>School of Finance</h1>
+          <h1>Southwestern University of Finance and Economics</h1>
           <!--<h4><a href="http://www.cse.ust.hk">Department of Computer Science and Engineering</a></h4>-->
           <!--<h4><a href="http://www.ust.hk">Hong Kong University of Science and Technology</a></h4>-->
         </div>
