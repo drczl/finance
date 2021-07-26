@@ -37,7 +37,7 @@
             <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
-            <dd>No. 10 Huixing Dongjie, Chaoyang District, Beijing, 100029 China</dd>
+            <dd>555 Liutai Avenue, Chengdu, China, 611130</dd>
             <dt><i class="fa fa-envelope-o" aria-hidden="true"></i></dt>
             <dd>chenzilin@swufe.edu.cn</dd>
             <dt><i class="fa fa-file" aria-hidden="true"></i></dt>
