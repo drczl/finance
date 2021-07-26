@@ -60,7 +60,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement</a>, Journal of Economic Dynamics and Control, accepted
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control, accepted
             </div>
           </li>
           
