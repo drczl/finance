@@ -32,7 +32,6 @@
         </div>
          <div class="col-sm-5 personal-information">
           <dl class="dl-horizontal">
-     
              <!-- <dt><i class="fa fa-building" aria-hidden="true"></i></dt>-->
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
@@ -49,28 +48,6 @@
         </div>
       </div>
 
-      <!-- Welcome Text -->
-      <div class="row-fluid content-header text-left">
-        <h2><strong>About Me</strong></h2>
-      </div>
-      <div class="row-fluid">
-        <p>
-        I obtained Ph.D degree in <a href="http://cse.ust.hk">CSE</a> from the
-        <a href="http://www.ust.hk">Hong Kong University of Science and Technology</a> in 2018. My Ph.D supervisor was
-          <a href="http://www.cse.ust.hk/~dyyeung/">Prof. Dit-Yan Yeung</a>.
-          Before that, I received my B.E. degree from <a href="http://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2014
-          under the supervision of <a href="http://cs.nju.edu.cn/lwj/">Prof. Wu-Jun Li</a> and
-          <a href="http://infosec.sjtu.edu.cn/index.php?m=article&f=view&id=63">Prof. Shi-Lin Wang</a>. In 2019, I started my job as an applied scientist in Amazon Web Services (AWS) in the group lead by Dr. Mu Li and Dr. Alex Smola.
-        </p>
-        <p>
-          At Amazon, I'm working on democratizing state-of-the-art Natural Language Processing (NLP) techniques to everyone via <a href="https://github.com/awslabs/autogluon">AutoGluon</a> and <a href="https://github.com/dmlc/gluon-nlp">GluonNLP</a>.
-          In addition, I'm interested in spatiotemporal analysis and the general area of <em>Deep Learning for Earth Science</em>.
-        </p>
-        <p>
-          <b><strong>We are hiring interns!</strong></b> If you are interested in solving challenging problems related to code analysis,
-          multimodal deep learning, and deep learning for earth science, feel free to drop me an email!
-        </p>
-      </div>
       <div class="row-fluid content-header text-left">
         <h2><strong>Research Interest</strong></h2>
       </div>
