@@ -30,8 +30,8 @@
           <h5>Southwestern University of Finance and Economics</h5>
         </div>
          <div class="col-sm-5 personal-information">
-          <dl class="row">
-            <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
+          <dl class="dl-horizontal">
+             <!-- <dt><i class="fa fa-building" aria-hidden="true"></i></dt>-->
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
             <dd>555 Liutai Avenue, Chengdu, China, 611130</dd>
