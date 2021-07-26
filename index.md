@@ -26,11 +26,13 @@
       <!-- Header -->
       <div class="row">
         <div class="col-sm-4">
-          <h5>Aisstant Professor of Finance</h5>
-          <h5>Southwestern University of Finance and Economics</h5>
+          <dd>Aisstant Professor of Finance</dd>
+           <dd>School of Finance,</dd>
+          <dd>Southwestern University of Finance and Economics</dd>
         </div>
          <div class="col-sm-5 personal-information">
           <dl class="dl-horizontal">
+     
              <!-- <dt><i class="fa fa-building" aria-hidden="true"></i></dt>-->
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
