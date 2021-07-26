@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <link rel="shortcut icon" type="jpg" href="image/uibe.jpg" /><title>Haoyuan Li | UIBE</title>
+     <!-- <link rel="shortcut icon" type="jpg" href="image/uibe.jpg" /><title>Haoyuan Li | UIBE</title> -->
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -29,20 +29,23 @@
           <h5>Aisstant Professor of Finance</h5>
           <h5>School of Finance</h5>
           <h5>Southwestern University of Finance and Economics</h5>
-   
         </div>
-        <div class="col-sm-7 personal-information">
+         <div class="col-sm-7 personal-information">
           <dl class="dl-horizontal">
-            <dt><i class="fa fa-home" aria-hidden="true"></i></dt>
-            <dd>Amazon SJC18,</dd>
-            <dd>2100 University Avenue, East Palo Alto</dd>
-            <dd>CA 94303, United States</dd>
+            <br />
+            <br />
+            <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
+            <dd>School of Finance,</dd>
+            <dd>Southwestern University of Finance and Economics</dd>
+            <dd>No. 10 Huixing Dongjie, Chaoyang District, Beijing, 100029 China</dd>
             <dt><i class="fa fa-envelope-o" aria-hidden="true"></i></dt>
-            <dd>xshiab AT connect DOT ust DOT hk</dd>
-            <dt><i class="fa fa-github-alt" aria-hidden="true"></i></dt>
-            <dd><a href="https://github.com/sxjscience">My Github</a></dd>
-            <dt><i class="fa fa-google" aria-hidden="true"></i></dt>
-            <dd><a href="https://scholar.google.com.hk/citations?user=P4G6H7oAAAAJ&hl=en">My Google Scholar</a></dd>
+            <dd>chenzilin@swufe.edu.cn</dd>
+            <dt><i class="fa fa-file" aria-hidden="true"></i></dt>
+            <dd><a href="data/lihaoyuan202010.pdf">Curriculum Vitae</a></dd>
+            <!-- <dd>Curriculum Vitae</a></dd> -->
+            <!-- ssrn later -->
+            <!-- <dt><i class="fa fa-google" aria-hidden="true"></i></dt>
+            <dd><a href="https://scholar.google.com.hk/citations?user=P4G6H7oAAAAJ&hl=en">My Google Scholar</a></dd> -->
           </dl>
         </div>
       </div>
