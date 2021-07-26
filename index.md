@@ -5,7 +5,7 @@
       <!-- Header -->
       <div class="row">
         <div class="col-sm-3">
-          <dd>Aisstant Professor of Finance</dd>
+          <dd>Asisstant Professor of Finance</dd>
            <dd>School of Finance</dd>
           <dd>Southwestern University of Finance and Economics</dd>
             <dd>555 Liutai Avenue, Chengdu, China, 611130</dd>
@@ -33,10 +33,9 @@
         <ul>
           <li class="workingpaper">
             <div class="paper-title">
-           Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns
+           Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns, with Zhi Da, Dashan Huang, and Liyao Wang.
             </div>
             <div class="paper-author">
-                Haoyuan Li
             </div>
           </li>
 
