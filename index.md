@@ -33,7 +33,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns </a>, with Zhi Da, Dashan Huang, and Liyao Wang.
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns</a>, with Zhi Da, Dashan Huang, and Liyao Wang.
             </div>
             <div class="paper-conference">
               Presented at: CICF 2021
@@ -42,7 +42,7 @@
           
            <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482349"> Private Subsidiaries’ Information Disclosure and the Cross-Sectional Equity Returns of Public Parent Firms </a>, with Turan G. Bali, Ran Chang, and Jun Tu.
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482349"> Private Subsidiaries’ Information Disclosure and the Cross-Sectional Equity Returns of Public Parent Firms</a>, with Turan G. Bali, Ran Chang, and Jun Tu.
             </div>
             <div class="paper-conference">
               Presented at: CICF 2021
@@ -60,7 +60,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement </a>, Journal of Economic Dynamics and Control, accepted
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement</a>, Journal of Economic Dynamics and Control, accepted
             </div>
           </li>
           
