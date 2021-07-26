@@ -38,36 +38,6 @@
                 Presented at: CICF 2021
                 </div>
             </li>
-
-          
-          <li class="workingpaper">
-            <div class="paper-title">
-                <strong>Information cycle and return seasonality</strong>
-            </div>
-            <div class="paper-author">
-                Haoyuan Li and <a href="https://business.smu.edu.sg/faculty/profile/9514/Roger-LOH">Roger Loh</a>
-            </div>
-          
-            <div class="paper-conference">
-                <strong>Presented at: </strong> <a href="https://business.smu.edu.sg/business/disciplines/finance/summer-camp">SMU Finance Summer Camp, 2019; </a> 
-                <a href="http://sfs.org/financecavalcades/sfs-cavalcade-asia-pacific-2019">SFS Cavalcade Asia-Pacific 2019. </a>
-              <!-- [project page] -->
-            </div>
-            <div class="publication-link">
-              [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3746737">paper</a>]
-              <!-- [paper]  -->
-              <!-- [project page] -->
-            </div>
-          </li>
-          
-            <li class="workingpaper">
-              <div class="paper-title">
-                  <strong>Managerial and analyst horizons during conference calls</strong>
-              </div>
-              <div class="paper-author">
-                  Haoyuan Li 
-              </div>          
-          </li>
         </ul>
       </div>
          
