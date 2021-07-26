@@ -1,6 +1,6 @@
 <html lang="en">
   <body>
-    <div class="container" id="container">
+   
       <div class="row">
         <div class="col-sm-3">
           <dd>Asisstant Professor of Finance</dd>
@@ -13,7 +13,7 @@
            <dd><a href="data/lihaoyuan202010.pdf">Curriculum Vitae</a></dd>
         </div>
       </div>
-     </div>
+
 
       <div class="row-fluid content-header text-left">
         <h3><strong>Research Interest</strong></h3>
