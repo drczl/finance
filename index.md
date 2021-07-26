@@ -25,11 +25,11 @@
     
       <!-- Header -->
       <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-4">
           <h5>Aisstant Professor of Finance</h5>
           <h5>Southwestern University of Finance and Economics</h5>
         </div>
-         <div class="col-sm-7 personal-information">
+         <div class="col-sm-5 personal-information">
           <dl class="row">
             <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
             <dd>School of Finance,</dd>
