@@ -1,7 +1,8 @@
 
-### Research Interests
+### Zilin Chen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Assistant Professor of Finance
+School of Finance, Southwestern University of Finance and Economics
 
 ```markdown
 Syntax highlighted code block
