@@ -13,6 +13,7 @@
             <dd><a href="data/lihaoyuan202010.pdf">Curriculum Vitae</a></dd>
         </div>
       </div>
+     </div>
 
       <div class="row-fluid content-header text-left">
         <h3><strong>Research Interest</strong></h3>
