@@ -30,7 +30,7 @@
           <h5>Southwestern University of Finance and Economics</h5>
         </div>
          <div class="col-sm-7 personal-information">
-          <dl class="dl-horizontal">
+          <dl class="row">
             <dt><i class="fa fa-building" aria-hidden="true"></i></dt>
             <dd>School of Finance,</dd>
             <dd>Southwestern University of Finance and Economics</dd>
