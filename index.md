@@ -42,10 +42,7 @@
       </div>
       <div class="row">
         <ul>
-          <li>Machine Learning and Deep Learning</li>
-          <li>Spatiotemporal Analysis</li>
-          <li>Computer Vision</li>
-          <li>Natural Language Processing</li>
+          <li>Empirical Asset Pricing; Behavioral Finance; Machine Learning</li>
         </ul>
       </div>
       <div class="row-fluid content-header text-left">
