@@ -35,7 +35,7 @@
             <div class="paper-title">
                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns </a>, with Zhi Da, Dashan Huang, and Liyao Wang.
                 <div class="paper-conference">
-                <strong>Presented at: CICF 2021
+                Presented at: CICF 2021
                 </div>
             </li>
 
