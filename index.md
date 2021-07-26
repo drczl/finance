@@ -17,7 +17,7 @@
       </div>
 
       <div class="row-fluid content-header text-left">
-        <h2><strong>Research Interest</strong></h2>
+        <h3><strong>Research Interest</strong></h3>
       </div>
       <div class="row">
         <ul>
