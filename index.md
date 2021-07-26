@@ -29,8 +29,7 @@
           <h1>Aisstant Professor of Finance</h1>
           <h1>School of Finance</h1>
           <h1>Southwestern University of Finance and Economics</h1>
-          <!--<h4><a href="http://www.cse.ust.hk">Department of Computer Science and Engineering</a></h4>-->
-          <!--<h4><a href="http://www.ust.hk">Hong Kong University of Science and Technology</a></h4>-->
+   
         </div>
         <div class="col-sm-7 personal-information">
           <dl class="dl-horizontal">
