@@ -25,7 +25,7 @@
     
       <!-- Header -->
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-2">
           <h1>Aisstant Professor of Finance</h1>
           <h1>School of Finance</h1>
           <h1>Southwestern University of Finance and Economics</h1>
