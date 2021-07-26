@@ -1,7 +1,7 @@
 
 ### Zilin Chen
 
-</h1>Assistant Professor of Finance</h1>
+<h1>Assistant Professor of Finance</h1>
 School of Finance, Southwestern University of Finance and Economics
 
 ```markdown
