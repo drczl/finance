@@ -33,7 +33,7 @@
         <ul>
           <li class="workingpaper">
             <div class="paper-title">
-              <strong>Analyst report content and stock market anomalies</strong>
+           Another Presidential Puzzle? Presidential Economic Approval Rating and the Cross-Section of Stock Returns
             </div>
             <div class="paper-author">
                 Haoyuan Li
@@ -60,6 +60,7 @@
               <!-- [project page] -->
             </div>
           </li>
+          
             <li class="workingpaper">
               <div class="paper-title">
                   <strong>Managerial and analyst horizons during conference calls</strong>
