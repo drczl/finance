@@ -57,7 +57,7 @@
           
            <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482349"> Private Subsidiaries’ Information Disclosure and the Cross-Sectional Equity Returns of Public Parent Firms</a>, with Turan G. Bali, Jun Tu, Ran Zhang.
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482349"> Private Subsidiaries’ Information Disclosure and the Cross-Sectional Equity Returns of Public Parent Firms</a>, with Turan G. Bali, Jun Tu, and Ran Zhang.
             </div>
             <div class="paper-conference">
               Presented at: CICF 2021
