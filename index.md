@@ -57,6 +57,16 @@
             </div>-->
           </li>
           
+          <li class="workingpaper">
+            <div class="paper-title">
+              <a> Modeling Trading Volume with Instrumented PCA </a>, with Dashan Huang and Yubo Tao.
+             </div>
+            <!-- <div class="paper-conference">
+              Presented at: CICF 2021
+            </div>-->
+          </li>
+          
+          
            <li class="workingpaper">
             <div class="paper-title">
               <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482349"> Private Subsidiaries’ Information Disclosure and the Cross-Sectional Equity Returns of Public Parent Firms</a>, with Turan G. Bali, Jun Tu, and Ran Chang.
