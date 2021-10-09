@@ -36,6 +36,12 @@
             </div>
           </li>
           
+           <li class="workingpaper">
+            <div class="paper-title">
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895100"> Concept Links and Return Momentum</a>, with Qianqian Du, Dawei Liang, and Jun Tu, Journal of Banking and Finance, accepted
+            </div>
+          </li>
+          
     
           
         </ul>
