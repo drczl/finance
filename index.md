@@ -38,13 +38,13 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control, accepted
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188921001263"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control, accepted
             </div>
           </li>
           
            <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895100"> Concept Links and Return Momentum</a>, with Qianqian Du, Dawei Liang, and Jun Tu, Journal of Banking and Finance, accepted
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426621002806"> Concept Links and Return Momentum</a>, with Qianqian Du, Dawei Liang, and Jun Tu, Journal of Banking and Finance, accepted
             </div>
           </li>
           
