@@ -32,6 +32,12 @@
           
           <li class="workingpaper">
             <div class="paper-title">
+              <a  Far Away From Home: Investors’ Underreaction to Geographically Dispersed Information a>, with Liya Chu, Dawei Liang, and Jun Tu, Journal of Economic Dynamics and Control, accepted
+            </div>
+          </li>
+          
+          <li class="workingpaper">
+            <div class="paper-title">
               <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414110"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control, accepted
             </div>
           </li>
