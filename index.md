@@ -32,7 +32,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a  Far Away From Home: Investors’ Underreaction to Geographically Dispersed Information a>, with Liya Chu, Dawei Liang, and Jun Tu, Journal of Economic Dynamics and Control, accepted
+              Far Away From Home: Investors’ Underreaction to Geographically Dispersed Information, with Liya Chu, Dawei Liang, and Jun Tu, Journal of Economic Dynamics and Control, accepted
             </div>
           </li>
           
