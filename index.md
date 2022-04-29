@@ -32,23 +32,22 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188922000306"> Far Away From Home: Investors’ Underreaction to Geographically Dispersed Information</a>, with Liya Chu, Dawei Liang, and Jun Tu, Journal of Economic Dynamics and Control, accepted
+             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188922000306"> Far Away From Home: Investors’ Underreaction to Geographically Dispersed Information</a>, with Liya Chu, Dawei Liang, and Jun Tu, Journal of Economic Dynamics and Control 136, 104325, 2022.
             </div>
           </li>
           
-          <li class="workingpaper">
-            <div class="paper-title">
-              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188921001263"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control, accepted
-            </div>
-          </li>
           
            <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426621002806"> Concept Links and Return Momentum</a>, with Qianqian Du, Dawei Liang, and Jun Tu, Journal of Banking and Finance, accepted
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426621002806"> Concept Links and Return Momentum</a>, with Qianqian Du, Dawei Liang, and Jun Tu, Journal of Banking and Finance 134, 106329, 2022.
             </div>
           </li>
           
-    
+        <li class="workingpaper">
+            <div class="paper-title">
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188921001263"> Media Connection and Return Comovement</a>, with Li Guo and Jun Tu, Journal of Economic Dynamics and Control 130, 104191, 2021. 
+            </div>
+          </li>
           
         </ul>
        </div>
