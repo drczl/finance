@@ -61,7 +61,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Presidential Economic Approval Rating and the Cross-Section of Stock Returns</a>, with Zhi Da, Dashan Huang, and Liyao Wang.
+              <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805395"> Presidential Economic Approval Rating and the Cross-Section of Stock Returns</a>, with Zhi Da, Dashan Huang, and Liyao Wang. <dd><a href="pear_index.xlsx">PEAR data</a></dd>
              </div>
             <!-- <div class="paper-conference">
               Presented at: CICF 2021
