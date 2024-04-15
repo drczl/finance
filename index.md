@@ -83,7 +83,7 @@
 
            <li class="workingpaper">
             <div class="paper-title">
-              <a> Partisan Hedge Funds </a>, with Dashan Huang, Melvyn Teo, and Lin Sun.
+              <a> Partisan Hedge Funds </a>, with Dashan Huang, Lin Sun, and Melvyn Teo.
              </div>
             <!-- <div class="paper-conference">
               Presented at: CICF 2021
